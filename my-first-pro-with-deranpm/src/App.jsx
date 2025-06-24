@@ -4,6 +4,7 @@ import Home from './components/Home/Home'
 import Gird from './components/Gird/Gird'
 import Search from './components/Search/Search'
 import Fin from './components/Fin/Fin'
+import Accomodation from './components/Accomodation/Accomodation'
 const App = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const App = () => {
     <Home/>
     <Gird/>
     <Search/>
+    <Accomodation/>
     <Fin/>
     </>
   )
