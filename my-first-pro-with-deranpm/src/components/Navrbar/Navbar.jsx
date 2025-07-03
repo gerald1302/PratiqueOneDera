@@ -15,8 +15,8 @@ const Navbar = () => {
 
 
       <ul className='flex items-center justify-center h-40 w-1/2 '> 
-        <li className='p-2'>Accueil</li>
-        <li className='p-2'>blogs</li>
+        <a href="#" className='p-2'>Acceuill</a>
+        <a href="#" className='p-2'>blogs</a>
       </ul>
    
 
